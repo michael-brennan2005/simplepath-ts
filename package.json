@@ -1,9 +1,9 @@
 {
   "name": "@rbxts/simplepath",
-  "version": "2.2.1-ts.1",
+  "version": "2.2.1-ts.2",
   "description": "Pathfinding made simple",
-  "main": "src/SimplePath.lua",
-  "typings": "src/SimplePath.d.ts",
+  "main": "out/SimplePath.lua",
+  "typings": "out/SimplePath.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/tech0tron/simplepath-ts"
