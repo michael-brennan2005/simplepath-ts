@@ -6,8 +6,9 @@
   "typings": "src/SimplePath.d.ts",
   "repository": {
     "type": "git",
-    "url":
+    "url": "https://github.com/tech0tron/simplepath-ts"
   },
+  "homepage": "https://zeref-z.github.io/RBLX-SimplePath/",
   "scripts": {
     "build": "rbxtsc",
     "watch": "rbxtsc -w",
@@ -15,6 +16,10 @@
   },
   "keywords": [],
   "author": "",
+  "contributors": [
+    "Zeref-Z",
+    "tech0tron"
+  ],
   "license": "ISC",
   "files": [
     "out",
